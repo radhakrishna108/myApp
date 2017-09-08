@@ -1,0 +1,6266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Army List Name</key>
+	<string>Highborn Elves</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Category</key>
+			<string>Magic Weapon</string>
+			<key>Icon</key>
+			<string>glyphicons_285_swords</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Great Bow of Elu</string>
+					<key>Points</key>
+					<real>70</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Weapon</string>
+					<key>Name</key>
+					<string>Spear of the Blazing Dawn </string>
+					<key>Points</key>
+					<real>50</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Armour</string>
+			<key>Icon</key>
+			<string>glyphicons_283_shield</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Armour</string>
+					<key>Name</key>
+					<string>Daemon Hunter's Helm </string>
+					<key>Points</key>
+					<real>80</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Talisman</string>
+			<key>Icon</key>
+			<string>glyphicons_012_heart</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Talisman</string>
+					<key>Name</key>
+					<string>Gleaming Robe</string>
+					<key>Points</key>
+					<real>90</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Arcane Item</string>
+			<key>Icon</key>
+			<string>glyphicons_009_magic</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Amethyst Crystal</string>
+					<key>Points</key>
+					<real>110</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Arcane Item</string>
+					<key>Name</key>
+					<string>Book of Meladys </string>
+					<key>Points</key>
+					<real>90</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Enchanted Item</string>
+			<key>Icon</key>
+			<string>glyphicons_048_star</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Cloak of the Stars</string>
+					<key>Points</key>
+					<real>35</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Enchanted Item</string>
+					<key>Name</key>
+					<string>Shard of Cenyrn</string>
+					<key>Points</key>
+					<real>20</real>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Category</key>
+			<string>Magic Standard</string>
+			<key>Icon</key>
+			<string>glyphicons_291_flag</string>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>Banner of Becalming</string>
+					<key>Points</key>
+					<real>70</real>
+				</dict>
+				<dict>
+					<key>Category</key>
+					<string>Magic Standard</string>
+					<key>Name</key>
+					<string>War Banner of Ryma</string>
+					<key>Points</key>
+					<real>60</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Organisation</key>
+	<array>
+		<dict>
+			<key>Class</key>
+			<string>Characters</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Points</key>
+										<real>80</real>
+										<key>Special Rules</key>
+										<string>Calvary; Mounts Protection (5+)</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Reaver Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string> Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Lighting Reflexes; Light Lance; Longbow</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Elven Horse (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>80</real>
+										<key>Special Rules</key>
+										<string>Mounts Protection (6+); Light Armour; Martial Discipline; Light Troops; Vanguard</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Points</key>
+										<real>100</real>
+										<key>Special Rules</key>
+										<string>Fly (9); Mounts Protection (6+); Monstrous Beast </string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Griffon</string>
+										<key>Points</key>
+										<real>280</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (8); Towering Presence; Fear; Armour Piercing (1); Lightning Reflexes; Thunderous Charge; Devastating Charge</string>
+										<key>Stats</key>
+										<string>M6(8)•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Young Dragon</string>
+										<key>Points</key>
+										<real>410</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (7); Towering Presence; Fear; Stomp (1D3); Breath Weapon (Strength 4, Flaming Attacks); Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S5•T5•W4•I3•A4•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragon</string>
+										<key>Points</key>
+										<real>520</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Breath Weapon (Strength 4, Flaming Attacks); Innate Defence (3+); 0-1 Choice per Army</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S6•T6•W6•I3•A5•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Ancient Dragon</string>
+										<key>Points</key>
+										<real>720</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Breath Weapon (Strength 4, Flaming Attacks); Innate Defence (3+); 0-1 Choice per Army</string>
+										<key>Stats</key>
+										<string>M6(7)•WS6•BS1•S7•T7•W7•I3•A6•Ld9</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Prince</string>
+							<key>Points</key>
+							<real>250</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Wizard Apprentice</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<real>4</real>
+										<key>Default</key>
+										<true/>
+										<key>Maximum</key>
+										<real>4</real>
+										<key>Name</key>
+										<string>Druidism</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Maximum</key>
+										<real>4</real>
+										<key>Name</key>
+										<string>Alchemy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Maximum</key>
+										<real>4</real>
+										<key>Name</key>
+										<string>Cosmology</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Master of Canreig Tower</string>
+							<key>Points</key>
+							<real>370</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; 0-1 Choice per Army; Sword Sworn; Master of Balance</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Points</key>
+										<real>0.0</real>
+										<key>Special Rules</key>
+										<string>Calvary; Mounts Protection (5+)</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Young Dragon</string>
+										<key>Points</key>
+										<real>460</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (7); Towering Presence; Fear; Stomp (1D3); Breath Weapon (Strength 4, Flaming Attacks); Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S5•T5•W4•I3•A4•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragon</string>
+										<key>Points</key>
+										<real>590</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Breath Weapon (Strength 4, Flaming Attacks); Innate Defence (3+); 0-1 Choice per Army</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S6•T6•W6•I3•A5•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Ancient Dragon</string>
+										<key>Points</key>
+										<real>790</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Breath Weapon (Strength 4, Flaming Attacks); Innate Defence (3+); 0-1 Choice per Army</string>
+										<key>Stats</key>
+										<string>M6(7)•WS6•BS1•S7•T7•W7•I3•A6•Ld9</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Prince of Ryma</string>
+							<key>Points</key>
+							<real>330</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Devastating Charge; 0-1 Choice per Army</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Attached Units</key>
+							<array>
+								<dict>
+									<key>Command</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Crew (2)</string>
+												<key>Options</key>
+												<array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Light Lance</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Light Armour</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+												</array>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+											</dict>
+										</array>
+									</array>
+									<key>Equipment</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Sky Reaper</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Mounts Protection (6+)</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Name</key>
+												<string>Aldan Warhorn</string>
+												<key>Points</key>
+												<real>40</real>
+											</dict>
+											<dict>
+												<key>Name</key>
+												<string>Storm Pennant</string>
+												<key>Points</key>
+												<real>40</real>
+											</dict>
+										</array>
+									</array>
+									<key>Lower Limit</key>
+									<integer>0</integer>
+									<key>Maximum Size</key>
+									<integer>1</integer>
+									<key>Minimum Size</key>
+									<integer>1</integer>
+									<key>Mount</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Hawk (1)</string>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M2•WS4•BS-•S4•T-•W-•I4•A2•Ld-</string>
+											</dict>
+										</array>
+									</array>
+									<key>Name</key>
+									<string>Sky Sloop</string>
+									<key>Points</key>
+									<real>120</real>
+									<key>Size</key>
+									<integer>1</integer>
+									<key>Special Rules</key>
+									<string>Chariot; Martial Discipline; Lightning Reflexes (Crew only); Quick to Fire; Fly (9); Hard Target; 50X100mm</string>
+									<key>Stats</key>
+									<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									<key>Upper Limit</key>
+									<integer>-1</integer>
+								</dict>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Points</key>
+										<real>100</real>
+										<key>Special Rules</key>
+										<string>Fly (9); Monstrous Beast; Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Sky Sloop</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Lightning Reflexes; Light Lance</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Hawk</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M2(9)•WS4•BS-•S4•T-•W-•I4•A2•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Storm Penmant</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+												<dict>
+													<key>Name</key>
+													<string>Sky Reaper</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Volley Gun (4) Artillery Weapon; Range 24"; Strength 5; Armour Piercing (1); Quick to Fire</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>315</real>
+										<key>Special Rules</key>
+										<string>Chariot; Mounts Protection (6+); Light Armour; Martial Discipline; Fly (9); Hard Target</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Fleet Officer</string>
+							<key>Points</key>
+							<real>290</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Steady Aim; Weapon Master</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Fire Phoenix</string>
+										<key>Points</key>
+										<real>400</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (9); Ward Save (4+); Magical Attacks; Fireborn; Flaming Attacks; Flame Swoop; Rebirth</string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S5•T5•W5•I4•A4•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Frost Phoenix</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Innate Defense (5+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>420</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (8); Ward Save (4+); Magical Attacks; Chill Aura</string>
+										<key>Stats</key>
+										<string>M2(8)•WS5•BS-•S5•T5•W5•I3•A5•Ld8</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>High Warden of the Flame</string>
+							<key>Points</key>
+							<real>420</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Ward Save (4+); Immune to Psychology; Magic Resistance (1); Divine Attacks; Models Unit Gains Magical Attacks</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Moonlight Arrows</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Scout, Bitter Arrows</string>
+										<key>Points</key>
+										<real>40</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Queen's Companion </string>
+							<key>Points</key>
+							<real>290</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Multiple Shot (3). Bearers Unit Gains Quick To Fire; 0-2 per Army</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Attached Units</key>
+							<array>
+								<dict>
+									<key>Command</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Crew (2)</string>
+												<key>Options</key>
+												<array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Great Weapon</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+												</array>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M-•WS5•BS4•S4•T-•W-•I5•A1•Ld8</string>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Count</key>
+												<real>1</real>
+												<key>Default</key>
+												<true/>
+												<key>Maximum</key>
+												<real>1</real>
+												<key>Name</key>
+												<string>Heavy Armour</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+									</array>
+									<key>Equipment</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Mounts Protection (5+)</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+									</array>
+									<key>Lower Limit</key>
+									<integer>0</integer>
+									<key>Maximum Size</key>
+									<integer>1</integer>
+									<key>Minimum Size</key>
+									<integer>1</integer>
+									<key>Mount</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Lions (2)</string>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M8•WS5•BS-•S5•T-•W-•I4•A2•Ld8</string>
+											</dict>
+										</array>
+									</array>
+									<key>Name</key>
+									<string>Lion Chariot</string>
+									<key>Points</key>
+									<real>60</real>
+									<key>Size</key>
+									<integer>1</integer>
+									<key>Special Rules</key>
+									<string>Chariot; Martial Discipline; Lightning Reflexes (Crew only); Valiant; Impact Hits (+1); Multiple Wounds (2, Monstrous Cavalry, Monstrous Beasts, Monster &amp; Ridden Monster) (Crew only); 50X100mm</string>
+									<key>Stats</key>
+									<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									<key>Upper Limit</key>
+									<integer>-1</integer>
+								</dict>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapon</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Lion Fur</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>6</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Lion Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Martial Discipline; Lightning Reflexes; Multiple Wounds (2, Monstrous Cavalry, Monstrous Beasts; Monster &amp; Ridden Monster); Valiant; Great Weapons</string>
+													<key>Stats</key>
+													<string>M-•WS5•BS4•S4•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Lions (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M8•WS5•BS-•S5•T-•W-•I4•A2•Ld-</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>170</real>
+										<key>Special Rules</key>
+										<string>Chariot; Impact Hits (+1); Mounts Protection (5+); Heavy Armour</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Royal Huntsmen </string>
+							<key>Points</key>
+							<real>340</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Valiant. If Equipped With Great Weapon, Multiple Wounds (2, Monstrous Beast, Monstrous Cavalry, Chariot, Monster, Ridden Monsters); Model's Unit is Immune to the Effects of Terror and Fear</string>
+							<key>Stats</key>
+							<string>M5•WS7•BS7•S4•T3•W3•I8•A4•Ld10</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Lords of the Seas (Prince)</string>
+					<key>Points</key>
+					<real>0.0</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>24</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string> Battle Standard Bearer</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>-1</real>
+									<key>Name</key>
+									<string>Battle Standard</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Calvary; Mounts Protection (5+)</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Reaver Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string> Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Lighting Reflexes; Light Lance; Longbow</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Elven Horse (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>80</real>
+										<key>Special Rules</key>
+										<string>Mounts Protection (6+); Light Armour; Martial Discipline; Light Troops; Vanguard</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Points</key>
+										<real>80</real>
+										<key>Special Rules</key>
+										<string>Fly (9); Mounts Protection (6+); Monstrous Beast </string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Griffon</string>
+										<key>Points</key>
+										<real>280</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (8); Towering Presence; Fear; Armour Piercing (1); Lightning Reflexes; Thunderous Charge; Devastating Charge</string>
+										<key>Stats</key>
+										<string>M6(8)•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Commander</string>
+							<key>Points</key>
+							<real>150</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes</string>
+							<key>Stats</key>
+							<string>M5•WS6•BS6•S4•T3•W3•I7•A3•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>24</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string> Battle Standard Bearer</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Wizard Apprentice</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Count</key>
+										<real>4</real>
+										<key>Default</key>
+										<true/>
+										<key>Maximum</key>
+										<real>4</real>
+										<key>Name</key>
+										<string>Druidism</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Maximum</key>
+										<real>4</real>
+										<key>Name</key>
+										<string>Alchemy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Count</key>
+										<integer>0</integer>
+										<key>Maximum</key>
+										<real>4</real>
+										<key>Name</key>
+										<string>Cosmology</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>-1</real>
+									<key>Name</key>
+									<string> Battle Standard </string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Master of Canreig Tower</string>
+							<key>Points</key>
+							<real>270</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; 0-1 Choice per Army; Sword Sworn; Master of Balance</string>
+							<key>Stats</key>
+							<string>M5•WS6•BS6•S4•T3•W3•I7•A3•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Attached Units</key>
+							<array>
+								<dict>
+									<key>Command</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Crew (2)</string>
+												<key>Options</key>
+												<array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Light Lance</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Light Armour</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+												</array>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+											</dict>
+										</array>
+									</array>
+									<key>Equipment</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Sky Reaper</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Mounts Protection (6+)</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Name</key>
+												<string>Aldan Warhorn</string>
+												<key>Points</key>
+												<real>40</real>
+											</dict>
+											<dict>
+												<key>Name</key>
+												<string>Storm Pennant</string>
+												<key>Points</key>
+												<real>40</real>
+											</dict>
+										</array>
+									</array>
+									<key>Lower Limit</key>
+									<integer>0</integer>
+									<key>Maximum Size</key>
+									<integer>1</integer>
+									<key>Minimum Size</key>
+									<integer>1</integer>
+									<key>Mount</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Hawk (1)</string>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M2•WS4•BS-•S4•T-•W-•I4•A2•Ld-</string>
+											</dict>
+										</array>
+									</array>
+									<key>Name</key>
+									<string>Sky Sloop</string>
+									<key>Points</key>
+									<real>120</real>
+									<key>Size</key>
+									<integer>1</integer>
+									<key>Special Rules</key>
+									<string>Chariot; Martial Discipline; Lightning Reflexes (Crew only); Quick to Fire; Fly (9); Hard Target; 50X100mm</string>
+									<key>Stats</key>
+									<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									<key>Upper Limit</key>
+									<integer>-1</integer>
+								</dict>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>24</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Battle Standard Bearer</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>-1</real>
+									<key>Name</key>
+									<string>Battle Standard </string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Points</key>
+										<real>100</real>
+										<key>Special Rules</key>
+										<string>Fly (9); Monstrous Beast; Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Sky Sloop</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Lightning Reflexes; Light Lance</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Hawk</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M2(9)•WS4•BS-•S4•T-•W-•I4•A2•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Storm Penmant</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+												<dict>
+													<key>Name</key>
+													<string>Sky Reaper</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Volley Gun (4) Artillery Weapon; Range 24"; Strength 5; Armour Piercing (1); Quick to Fire</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>315</real>
+										<key>Special Rules</key>
+										<string>Chariot; Mounts Protection (6+); Light Armour; Martial Discipline; Fly (9); Hard Target</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Fleet Officer</string>
+							<key>Points</key>
+							<real>190</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Steady Aim; Weapon Master</string>
+							<key>Stats</key>
+							<string>M5•WS6•BS6•S4•T3•W3•I7•A3•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>24</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Battle Standard Bearer</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>-1</real>
+									<key>Name</key>
+									<string>Battle Standard </string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Fire Phoenix</string>
+										<key>Points</key>
+										<real>400</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (9); Ward Save (4+); Magical Attacks; Fireborn; Flaming Attacks; Flame Swoop; Rebirth</string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S5•T5•W5•I4•A4•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Frost Phoenix</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Innate Defense (5+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>420</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (8); Ward Save (4+); Magical Attacks; Chill Aura</string>
+										<key>Stats</key>
+										<string>M2(8)•WS5•BS-•S5•T5•W5•I3•A5•Ld8</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>High Warden of the Flame</string>
+							<key>Points</key>
+							<real>320</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Ward Save (4+); Immune to Psychology; Magic Resistance (1); Divine Attacks; Models Unit Gains Magical Attacks</string>
+							<key>Stats</key>
+							<string>M5•WS6•BS6•S4•T3•W3•I7•A3•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>24</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapons</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Moonlight Arrows</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Scout, Bitter Arrows</string>
+										<key>Points</key>
+										<real>40</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Battle Standard Bearer</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>-1</real>
+									<key>Name</key>
+									<string>Battle Standard </string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Name</key>
+							<string>Queen's Companion </string>
+							<key>Points</key>
+							<real>190</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Multiple Shot (3). Bearers Unit Gains Quick To Fire; 0-2 per Army</string>
+							<key>Stats</key>
+							<string>M5•WS6•BS6•S4•T3•W3•I7•A3•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Attached Units</key>
+							<array>
+								<dict>
+									<key>Command</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Crew (2)</string>
+												<key>Options</key>
+												<array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Great Weapon</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+												</array>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M-•WS5•BS4•S4•T-•W-•I5•A1•Ld8</string>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Count</key>
+												<real>1</real>
+												<key>Default</key>
+												<true/>
+												<key>Maximum</key>
+												<real>1</real>
+												<key>Name</key>
+												<string>Heavy Armour</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+									</array>
+									<key>Equipment</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Mounts Protection (5+)</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+									</array>
+									<key>Lower Limit</key>
+									<integer>0</integer>
+									<key>Maximum Size</key>
+									<integer>1</integer>
+									<key>Minimum Size</key>
+									<integer>1</integer>
+									<key>Mount</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Lions (2)</string>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M8•WS5•BS-•S5•T-•W-•I4•A2•Ld8</string>
+											</dict>
+										</array>
+									</array>
+									<key>Name</key>
+									<string>Lion Chariot</string>
+									<key>Points</key>
+									<real>60</real>
+									<key>Size</key>
+									<integer>1</integer>
+									<key>Special Rules</key>
+									<string>Chariot; Martial Discipline; Lightning Reflexes (Crew only); Valiant; Impact Hits (+1); Multiple Wounds (2, Monstrous Cavalry, Monstrous Beasts, Monster &amp; Ridden Monster) (Crew only); 50X100mm</string>
+									<key>Stats</key>
+									<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									<key>Upper Limit</key>
+									<integer>-1</integer>
+								</dict>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Paired Weapon</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Spear</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Light Lance</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Great Weapon</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Halberd</string>
+										<key>Points</key>
+										<real>16</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Lance</string>
+										<key>Points</key>
+										<real>20</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Lion Fur</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Light Armour</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Heavy Armour</string>
+										<key>Points</key>
+										<real>10</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Shield</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Longbow</string>
+										<key>Points</key>
+										<real>4</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Battle Standard Bearer</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>-1</real>
+									<key>Name</key>
+									<string>Battle Standard</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Lion Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Martial Discipline; Lightning Reflexes; Multiple Wounds (2, Monstrous Cavalry, Monstrous Beasts; Monster &amp; Ridden Monster); Valiant; Great Weapons</string>
+													<key>Stats</key>
+													<string>M-•WS5•BS4•S4•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Lions (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M8•WS5•BS-•S5•T-•W-•I4•A2•Ld-</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>170</real>
+										<key>Special Rules</key>
+										<string>Chariot; Impact Hits (+1); Mounts Protection (5+); Heavy Armour</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Royal Huntsmen </string>
+							<key>Points</key>
+							<real>240</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Valiant. If Equipped With Great Weapon, Multiple Wounds (2, Monstrous Beast, Monstrous Cavalry, Chariot, Monster, Ridden Monsters); Model's Unit is Immune to the Effects of Terror and Fear</string>
+							<key>Stats</key>
+							<string>M5•WS6•BS6•S4•T3•W3•I7•A3•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Lords of the Seas (Commander)</string>
+					<key>Points</key>
+					<real>0.0</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Path of Pyromancy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Cosmology</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Divination</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (5+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>40</real>
+										<key>Special Rules</key>
+										<string>Calvary</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (9); Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Reaver Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Martial Discipline; Lightning Reflexes; Light Lance; Longbow</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Elven Horses (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>40</real>
+										<key>Special Rules</key>
+										<string>Chariot; Mounts Protection (6+); Light Armour; Light Troops; Vanguard</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Griffon</string>
+										<key>Points</key>
+										<real>220</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (8); Towering Presence; Fear; Armour Piercing (1); Lightning Reflexes; Thunderous Charge; Devastating Charge</string>
+										<key>Stats</key>
+										<string>M6(8)•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Young Dragon</string>
+										<key>Points</key>
+										<real>220</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Mounts Protection (6+); Fly (7); Towering Presence; Fear; Stomp (D3); Breath Weapon (Strength 4; Flaming Attacks)</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S5•T5•W4•I4•A4•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragon</string>
+										<key>Points</key>
+										<real>600</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Innate Defence (3+); Breath Weapon (Strength 4; Flaming Attacks); 0-1 per Army</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S6•T6•W6•I3•A5•Ld9</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Wizard Master</string>
+							<key>Points</key>
+							<real>270</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Master of Balance; Character </string>
+							<key>Stats</key>
+							<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Wizard Master</string>
+										<key>Points</key>
+										<real>70</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Path of Pyromancy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Young Dragon</string>
+										<key>Points</key>
+										<real>340</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (7); Towering Presence; Fear; Stomp (1D3); Breath Weapon (Strength 4, Flaming Attacks); Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S5•T5•W4•I3•A4•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragon</string>
+										<key>Points</key>
+										<real>600</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Breath Weapon (Strength 4, Flaming Attacks); 0-1 per Army; Innate Protection (3+)</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S6•T6•W6•I3•A5•Ld9</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Order of the Fiery Heart</string>
+							<key>Points</key>
+							<real>300</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Master of Balance; </string>
+							<key>Stats</key>
+							<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Attached Units</key>
+							<array>
+								<dict>
+									<key>Command</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>2 Crew</string>
+												<key>Options</key>
+												<array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Light Lance</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Longbow</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+												</array>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+											</dict>
+										</array>
+									</array>
+									<key>Equipment</key>
+									<array>
+										<array>
+											<dict>
+												<key>Name</key>
+												<string>Vanguard</string>
+												<key>Points</key>
+												<real>10</real>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Mounts Protection (6+)</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+									</array>
+									<key>Lower Limit</key>
+									<integer>0</integer>
+									<key>Maximum Size</key>
+									<integer>1</integer>
+									<key>Minimum Size</key>
+									<integer>1</integer>
+									<key>Mount</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Elven Horses (2)</string>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+											</dict>
+										</array>
+									</array>
+									<key>Name</key>
+									<string>Reaver Chariot</string>
+									<key>Points</key>
+									<real>25</real>
+									<key>Size</key>
+									<integer>1</integer>
+									<key>Special Rules</key>
+									<string>Chariot; Martial Discipline; Lightning Reflexes (Crew only); Light Troops; 50X100mm</string>
+									<key>Stats</key>
+									<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									<key>Upper Limit</key>
+									<integer>-1</integer>
+								</dict>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Drain Magic (Power Level 4)</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Wizard Master</string>
+										<key>Points</key>
+										<real>70</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Path of Pyromancy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Cosmos</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Divination</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>200</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (5+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>40</real>
+										<key>Special Rules</key>
+										<string>Calvary;</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (6+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Fly (9); Monstrous Beast; </string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Reaver Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Martial Discipline; Lightning Reflexes; Light Lance; Longbow</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Elven Horse (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Chariot; Mounts Protection (6+); Light Armour; Light Troops; Vanguard</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Griffon</string>
+										<key>Points</key>
+										<real>220</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (8); Towering Presence; Fear; Armour Piercing (1); Lightning Reflexes; Devastating Charge; Thunderous Charge</string>
+										<key>Stats</key>
+										<string>M6(8)•WS5•BS-•S5•T5•W4•I5•A4•Ld5</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Young Dragon</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (6+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>220</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (7); Towering Presence; Fear; Stomp (1D3); Breath Weapon (Strength 4, Flaming Attacks); </string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S5•T5•W4•I3•A4•Ld9</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Dragon</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Innate Defense (3+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>600</real>
+										<key>Special Rules</key>
+										<string>Monster; Fly (7); Breath Weapon (Strength 4, Flaming Attacks); 0-1 per Army</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S6•T6•W6•I3•A5•Ld9</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Asfad Scholar </string>
+							<key>Points</key>
+							<real>280</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Master of Balance</string>
+							<key>Stats</key>
+							<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Mage (Master)</string>
+					<key>Points</key>
+					<real>0.0</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Attached Units</key>
+					<array>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Path of Pyromancy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Cosmology</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Divination</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (5+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>40</real>
+										<key>Special Rules</key>
+										<string>Calvary</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (9); Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Reaver Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Martial Discipline; Lightning Reflexes; Light Lance; Longbow</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Elven Horses (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>40</real>
+										<key>Special Rules</key>
+										<string>Chariot; Mounts Protection (6+); Light Armour; Light Troops; Vanguard</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Wizard Apprentice</string>
+							<key>Points</key>
+							<real>200</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Master of Balance; Character </string>
+							<key>Stats</key>
+							<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Dragonforged Armour</string>
+										<key>Points</key>
+										<real>30</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Wizard Apprentice</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Path of Pyromancy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Young Dragon</string>
+										<key>Points</key>
+										<real>340</real>
+										<key>Special Rules</key>
+										<string>Monstrous Beast; Fly (7); Towering Presence; Fear; Stomp (1D3); Breath Weapon (Strength 4, Flaming Attacks); Mounts Protection (6+)</string>
+										<key>Stats</key>
+										<string>M6(7)•WS5•BS1•S5•T5•W4•I3•A4•Ld9</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Order of the Fiery Heart</string>
+							<key>Points</key>
+							<real>300</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Master of Balance; </string>
+							<key>Stats</key>
+							<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>Attached Units</key>
+							<array>
+								<dict>
+									<key>Command</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>2 Crew</string>
+												<key>Options</key>
+												<array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Light Lance</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+													<array>
+														<dict>
+															<key>Default</key>
+															<true/>
+															<key>Equipped</key>
+															<true/>
+															<key>Name</key>
+															<string>Longbow</string>
+															<key>Points</key>
+															<real>0.0</real>
+														</dict>
+													</array>
+												</array>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+											</dict>
+										</array>
+									</array>
+									<key>Equipment</key>
+									<array>
+										<array>
+											<dict>
+												<key>Name</key>
+												<string>Vanguard</string>
+												<key>Points</key>
+												<real>10</real>
+											</dict>
+										</array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Mounts Protection (6+)</string>
+												<key>Points</key>
+												<real>0.0</real>
+											</dict>
+										</array>
+									</array>
+									<key>Lower Limit</key>
+									<integer>0</integer>
+									<key>Maximum Size</key>
+									<integer>1</integer>
+									<key>Minimum Size</key>
+									<integer>1</integer>
+									<key>Mount</key>
+									<array>
+										<array>
+											<dict>
+												<key>Default</key>
+												<true/>
+												<key>Equipped</key>
+												<true/>
+												<key>Name</key>
+												<string>Elven Horses (2)</string>
+												<key>Points</key>
+												<integer>0</integer>
+												<key>Stats</key>
+												<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+											</dict>
+										</array>
+									</array>
+									<key>Name</key>
+									<string>Reaver Chariot</string>
+									<key>Points</key>
+									<real>25</real>
+									<key>Size</key>
+									<integer>1</integer>
+									<key>Special Rules</key>
+									<string>Chariot; Martial Discipline; Lightning Reflexes (Crew only); Light Troops; 50X100mm</string>
+									<key>Stats</key>
+									<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									<key>Upper Limit</key>
+									<integer>-1</integer>
+								</dict>
+							</array>
+							<key>Equipment</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Hand Weapon</string>
+										<key>Points</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Drain Magic (Power Level 4)</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Lower Limit</key>
+							<integer>0</integer>
+							<key>Magic</key>
+							<array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Wizard Apprentice </string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>1 Learned Spell</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>2 Learned Spells</string>
+										<key>Points</key>
+										<real>50</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>3 Learned Spells</string>
+										<key>Points</key>
+										<real>100</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>4 Learned Spells</string>
+										<key>Points</key>
+										<real>150</real>
+									</dict>
+								</array>
+								<array>
+									<dict>
+										<key>Default</key>
+										<true/>
+										<key>Equipped</key>
+										<true/>
+										<key>Name</key>
+										<string>Path of Pyromancy</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Cosmos</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Path of Divination</string>
+										<key>Points</key>
+										<real>0.0</real>
+									</dict>
+								</array>
+							</array>
+							<key>Magic Items</key>
+							<array>
+								<dict>
+									<key>Items</key>
+									<array/>
+									<key>Limit</key>
+									<real>100</real>
+									<key>Name</key>
+									<string>Magic Items</string>
+								</dict>
+							</array>
+							<key>Maximum Size</key>
+							<integer>1</integer>
+							<key>Minimum Size</key>
+							<integer>1</integer>
+							<key>Mount</key>
+							<array>
+								<array>
+									<dict>
+										<key>Name</key>
+										<string>Elven Horse</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (5+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>40</real>
+										<key>Special Rules</key>
+										<string>Calvary;</string>
+										<key>Stats</key>
+										<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Giant Eagle</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Mounts Protection (6+)</string>
+													<key>Points</key>
+													<real>0.0</real>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Fly (9); Monstrous Beast; </string>
+										<key>Stats</key>
+										<string>M2(9)•WS5•BS-•S4•T4•W3•I4•A2•Ld8</string>
+									</dict>
+									<dict>
+										<key>Name</key>
+										<string>Reaver Chariot</string>
+										<key>Options</key>
+										<array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Crew (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Special Rules</key>
+													<string>Martial Discipline; Lightning Reflexes; Light Lance; Longbow</string>
+													<key>Stats</key>
+													<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+												</dict>
+											</array>
+											<array>
+												<dict>
+													<key>Default</key>
+													<true/>
+													<key>Equipped</key>
+													<true/>
+													<key>Name</key>
+													<string>Elven Horse (2)</string>
+													<key>Points</key>
+													<real>0.0</real>
+													<key>Stats</key>
+													<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+												</dict>
+											</array>
+										</array>
+										<key>Points</key>
+										<real>50</real>
+										<key>Special Rules</key>
+										<string>Chariot; Mounts Protection (6+); Light Armour; Light Troops; Vanguard</string>
+										<key>Stats</key>
+										<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+									</dict>
+								</array>
+							</array>
+							<key>Name</key>
+							<string>Asfad Scholar </string>
+							<key>Points</key>
+							<real>280</real>
+							<key>Size</key>
+							<integer>1</integer>
+							<key>Special Rules</key>
+							<string>Martial Discipline; Lightning Reflexes; Master of Balance</string>
+							<key>Stats</key>
+							<string>M5•WS4•BS4•S3•T3•W3•I5•A1•Ld9</string>
+							<key>Upper Limit</key>
+							<integer>-1</integer>
+						</dict>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Mage (Apprentice)</string>
+					<key>Points</key>
+					<real>0.0</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.34999999999999998</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Core</string>
+			<key>Lower Limit</key>
+			<real>0.25</real>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string>Veteran Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>-100</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spear</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Light Armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Shield</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>50</integer>
+					<key>Minimum Size</key>
+					<integer>20</integer>
+					<key>Name</key>
+					<string>Citizen Spears</string>
+					<key>Points</key>
+					<real>18</real>
+					<key>Size</key>
+					<integer>20</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Fight in Extra Rank; Scoring</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string> Veteran Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Initial Unit Cost</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lance</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Heavy Armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Shield</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>15</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Elven Horse</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Mount's Protection (5+)</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Highborn Lancers</string>
+					<key>Points</key>
+					<real>46</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Martial Discipline; Lightning Reflexes (Rider only); Scoring; 0-4 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string> Veteran Standard </string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>Veteran Standard Bearer</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Longbow</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Light Armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>30</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Citizen Archers</string>
+					<key>Points</key>
+					<real>18</real>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Scoring</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string> Veteran Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Light Armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Shield</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Spear</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Bow</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Ambush</string>
+								<key>Points</key>
+								<real>6</real>
+								<key>Special Rules</key>
+								<string>Unit up to 20 models only, 0-1 per Army</string>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>40</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Sea Guard</string>
+					<key>Points</key>
+					<real>24</real>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Fight in Extra Rank; Steady Aim; Weapon Master; Scoring </string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>40</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon; Light Lance; Light Armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Bow</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>10</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Elven Horse</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Mounts Protection (6+)</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Elein Reavers</string>
+					<key>Points</key>
+					<real>28</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Martial Discipline; Lightning Reflexes (Rider only); Fast Cavalry; 0-4 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS4•BS4•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Special</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>50</real>
+										<key>Name</key>
+										<string>Magic Weapon</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS6•BS4•S3•T3•W1•I6•A3•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>100</real>
+										<key>Name</key>
+										<string>Magic Banner</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>10</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon; Great Weapon; Heavy Armour</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>30</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Sword Masters</string>
+					<key>Points</key>
+					<real>25</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Sword Sworn; Scoring; 0-4 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS6•BS4•S3•T3•W1•I6•A2•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S4•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>100</real>
+										<key>Name</key>
+										<string>Magic Banner</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>-40</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon; Great Weapon; Heavy Armour; Lions Fur</string>
+								<key>Points</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Skirmish</string>
+								<key>Points</key>
+								<real>2</real>
+								<key>Special Rules</key>
+								<string>Max 15 models per unit; 0-1 Choice per Army</string>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>30</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Lion Guard</string>
+					<key>Points</key>
+					<real>27</real>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Multiple Wounds (2, Monstrous Cavalry, Monstrous Beasts; Chariot; Monster &amp; Ridden Monster); Strider (Forest); Valiant; Scoring; 0-5 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S4•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S3•T3•W1•I6•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>100</real>
+										<key>Name</key>
+										<string>Magic Banner</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>-50</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon; Halberd; Heavy Armour</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>25</integer>
+					<key>Minimum Size</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>Flame Wardens</string>
+					<key>Points</key>
+					<real>29</real>
+					<key>Size</key>
+					<integer>10</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Fight in Extra Ranks; Immune to Psychology; Ward Save (4+); Scoring; 0-5 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S3•T3•W1•I6•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS4•S3•T3•W1•I6•A2•Ld9</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>100</real>
+										<key>Name</key>
+										<string>Magical Standard</string>
+									</dict>
+								</array>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>70</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon; Lance; Dragonforged Armour; Shield</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>12</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Elven Horse</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Mounts Protection (5+)</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T3•W1•I4•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Knights of Ryma</string>
+					<key>Points</key>
+					<real>54</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Cavalry; Martial Discipline; Lightning Reflexes (Rider only); Devestating Charge (Rider only); Scoring; 0-4 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS4•S4•T3•W1•I6•A1•Ld9</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Crew (2)</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Light Lance; Long Bow</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Martial Discipline; Lightning Reflexes </string>
+								<key>Stats</key>
+								<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>30</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Vanguard</string>
+								<key>Points</key>
+								<real>15</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>4</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Elven Horses (2)</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M9•WS3•BS-•S3•T-•W-•I4•A1•Ld3</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Reaver Chariot</string>
+					<key>Points</key>
+					<real>120</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot; Mounts Protection (6+); Light Armour; Light Troops; Vanguard; 0-3 Units per Army</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Crew (2)</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Hand Weapon; Great Weapon</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Martial Discipline; Lightning Reflexes; Multiple Wounds (2, Monstrous Cavalry, Monstrous Beasts, Chariot; Monster &amp; Ridden Monster) </string>
+								<key>Stats</key>
+								<string>M-•WS5•BS4•S4•T-•W-•I5•A1•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Lions (2)</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M8•WS5•BS-•S5•T-•W-•I4•A2•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Lion Chariot</string>
+					<key>Points</key>
+					<real>230</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot; Mounts Protection (5+); Heavy Armour; Valiant; Impact Hits (+1); 0-3 Units per Army</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Crew (2)</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Light Lance</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Light Armour</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Martial Discipline; Lightning Reflexes </string>
+								<key>Stats</key>
+								<string>M-•WS4•BS4•S3•T-•W-•I5•A1•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Storm Pennant</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+							<dict>
+								<key>Name</key>
+								<string>Sky Reaper</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Mount</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hawk (1)</string>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Stats</key>
+								<string>M2•WS4•BS-•S4•T-•W-•I4•A2•Ld-</string>
+							</dict>
+						</array>
+					</array>
+					<key>Name</key>
+					<string>Sky Sloop</string>
+					<key>Points</key>
+					<real>240</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Chariot; Mounts Protection (6+); Light Armour; Quick to Fire; Fly (9); Hard Target; 0-2 Units per Army</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S5•T4•W4•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<real>1</real>
+								<key>Default</key>
+								<true/>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Starting Cost</string>
+								<key>Points</key>
+								<real>40</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>5</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Giant Eagle</string>
+					<key>Points</key>
+					<real>60</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monstrous Beast; Fly (9); 0-2 Units per Army</string>
+					<key>Stats</key>
+					<string>M2(9)•WS5•BS0•S4•T4•W3•I4•A2•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Elder Service</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS5•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Musician</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Cannot be taken if skirmish</string>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Count</key>
+								<integer>0</integer>
+								<key>Magic Items</key>
+								<array>
+									<dict>
+										<key>Items</key>
+										<array/>
+										<key>Limit</key>
+										<real>100</real>
+										<key>Name</key>
+										<string>Magic Banner</string>
+									</dict>
+								</array>
+								<key>Maximum</key>
+								<real>1</real>
+								<key>Name</key>
+								<string>Standard Bearer</string>
+								<key>Points</key>
+								<real>20</real>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Light Armour; Long Bow; Moonlight Arrows</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Spears</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>15</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Queen's Guard</string>
+					<key>Points</key>
+					<real>28</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Scoring; 0-3 Units per Army; 0-20 Models per Army</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS5•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.20000000000000001</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Peacekeepers</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Champion</string>
+								<key>Points</key>
+								<real>20</real>
+								<key>Special Rules</key>
+								<string>Ordering the Charge</string>
+								<key>Stats</key>
+								<string>M5•WS5•BS5•S3•T3•W1•I5•A2•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Equipment</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Hand Weapon; Light Armour; Long Bow; Bitter Arrows</string>
+								<key>Points</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Paired Weapons</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+						</array>
+						<array>
+							<dict>
+								<key>Name</key>
+								<string>Shield</string>
+								<key>Points</key>
+								<real>2</real>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>10</integer>
+					<key>Minimum Size</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>Grey Watchers</string>
+					<key>Points</key>
+					<real>36</real>
+					<key>Size</key>
+					<integer>5</integer>
+					<key>Special Rules</key>
+					<string>Infantry; Martial Discipline; Lightning Reflexes; Skirmishers; Scout; 0-3 Units per Army</string>
+					<key>Stats</key>
+					<string>M5•WS5•BS5•S3•T3•W1•I5•A1•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Command</key>
+					<array>
+						<array>
+							<dict>
+								<key>Default</key>
+								<true/>
+								<key>Equipped</key>
+								<true/>
+								<key>Name</key>
+								<string>Crew (2)</string>
+								<key>Options</key>
+								<array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Hand Weapon</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+									<array>
+										<dict>
+											<key>Default</key>
+											<true/>
+											<key>Equipped</key>
+											<true/>
+											<key>Name</key>
+											<string>Light Armour</string>
+											<key>Points</key>
+											<real>0.0</real>
+										</dict>
+									</array>
+								</array>
+								<key>Points</key>
+								<integer>0</integer>
+								<key>Special Rules</key>
+								<string>Martial Discipline; Lightning Reflexes</string>
+								<key>Stats</key>
+								<string>M5•WS4•BS4•S3•T3•W-•I5•A1•Ld8</string>
+							</dict>
+						</array>
+					</array>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Sea Guard Reaper </string>
+					<key>Points</key>
+					<real>180</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>War Machine; Elven Bolt Thrower; 0-3 Units per Army</string>
+					<key>Stats</key>
+					<string>M-•WS-•BS-•S-•T4•W4•I-•A-•Ld-</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.20000000000000001</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>The Ancient Allies</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Fire Phoenix</string>
+					<key>Points</key>
+					<real>380</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Fly (9); Ward Save (5+); Magical Attacks; Fireborn; Flaming Attacks; Flame Swoop; Rebirth; 0-3 Units per Army</string>
+					<key>Stats</key>
+					<string>M2(9)•WS5•BS-•S5•T5•W5•I4•A4•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>Lower Limit</key>
+					<integer>0</integer>
+					<key>Maximum Size</key>
+					<integer>1</integer>
+					<key>Minimum Size</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>Frost Phoenix</string>
+					<key>Points</key>
+					<real>400</real>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Special Rules</key>
+					<string>Monster; Fly (8); Ward Save (5+); Innate Defence (5+); Magical Attacks; Chill Aura; 0-3 Units per Army</string>
+					<key>Stats</key>
+					<string>M2(8)•WS5•BS0•S5•T5•W5•I3•A5•Ld8</string>
+					<key>Upper Limit</key>
+					<integer>-1</integer>
+				</dict>
+			</array>
+			<key>Upper Limit</key>
+			<real>0.20000000000000001</real>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>Other</string>
+			<key>Lower Limit</key>
+			<integer>0</integer>
+			<key>Units</key>
+			<array/>
+			<key>Upper Limit</key>
+			<real>-1</real>
+		</dict>
+	</array>
+	<key>System</key>
+	<string>9thAge</string>
+	<key>Version</key>
+	<date>2016-12-17T23:19:08Z</date>
+</dict>
+</plist>
